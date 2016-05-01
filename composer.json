@@ -1,0 +1,8 @@
+{
+    "name": "ely/anti-tempmail-repo",
+    "description": "Reference repository for anti tempmail lists.",
+    "keywords": ["email", "tempmail"],
+    "homepage": "https://github.com/elyby/anti-tempmail-repo",
+    "license": "MIT",
+    "type": "library"
+}
