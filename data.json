@@ -209,7 +209,7 @@
     "thisisnotmyrealemail\\.com",
     "throwawayemailaddress\\.com",
     "tradermail\\.info",
-    "trbv[\w]\\.com",
+    "trbv[\\w]\\.com",
     "trump\\.flu\\.cc",
     "trump\\.igg\\.biz",
     "u14269\\.ml",
