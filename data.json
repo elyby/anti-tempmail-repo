@@ -7,7 +7,7 @@
     "6ip\\.us",
     "armyspy\\.com",
     "art-en-ligne\\.pro",
-    "babai\\.(cf|ga|gq|igg\\.biz|ml|(nut|usa|flu|igg)\\.cc|)",
+    "babai\\.[\\w\\.]+",
     "binkmail\\.com",
     "biosor\\.cf",
     "blutig\\.me",
